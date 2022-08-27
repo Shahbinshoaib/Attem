@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689573226080",
+    "project_id": "attem-2",
+    "storage_bucket": "attem-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689573226080:android:2f65147c82c8368322c505",
+        "android_client_info": {
+          "package_name": "com.electromates.attem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689573226080-v2qbp8fgt6u5sc8mlsadv9979mgqcrts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhew4f2J4qqjL9wIaOPzNF2CAPVw6Z8tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689573226080-v2qbp8fgt6u5sc8mlsadv9979mgqcrts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
